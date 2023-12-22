@@ -56,14 +56,14 @@
 A <a href="https://github.com/Tessaro03/TaskHubApi"  target="_blank">TaskHub API</a> é uma API desenvolvida em Java utilizando Spring (Security, Doc, Web, JWT) e MySQL. Ela permite a criação, gestão de equipes, projetos e tarefas associadas a projetos, oferecendo todas as operações CRUD e validações necessárias para os usuários.
 </p>
 
-<h3>🚗 Tabela FIPE </h3>
-<p>
-O <a href="https://github.com/Tessaro03/TabelaFipe" target="_blank">projeto Tabela FIPE</a> foi desenvolvido em Java com o framework Spring. Essa aplicação facilita consultas de veículos por categoria, marca, modelo e ano, proporcionando uma experiência ágil e eficiente na obtenção de informações sobre preços de veículos no mercado brasileiro.
-</p>
-
 <h3>🎬 Screen Series </h3>
 <p>
 O <a href="https://github.com/Tessaro03/ScreenSeries"  target="_blank">Screen Series</a> consome uma API de séries, armazenando informações como título, temporada, episódios e elenco. Além disso, utiliza a API do ChatGPT para traduzir automaticamente as sinopses de cada episódio, enriquecendo a experiência do usuário.
+</p>
+
+<h3>🚗 Tabela FIPE </h3>
+<p>
+O projeto <a href="https://github.com/Tessaro03/TabelaFipe" target="_blank"> Tabela FIPE</a> foi desenvolvido em Java com o framework Spring. Essa aplicação facilita consultas de veículos por categoria, marca, modelo e ano, proporcionando uma experiência ágil e eficiente na obtenção de informações sobre preços de veículos no mercado brasileiro.
 </p>
 
 <h3>🎵 Screen Music </h3>
@@ -71,5 +71,11 @@ O <a href="https://github.com/Tessaro03/ScreenSeries"  target="_blank">Screen Se
 O <a href="https://github.com/Tessaro03/ScreenMusic"  target="_blank">Screen Music</a> é um projeto Java que cadastra artistas, os afilia a músicas e salva dados em um banco de dados SQL. Ele oferece flexibilidade na associação de artistas a várias músicas, permitindo um gerenciamento abrangente. Além disso, integração com a API ChatGPT permite pesquisas intuitivas sobre os artistas.
 </p>
 
+<h3>🚗 CarToop </h3>
+<h4> <a href="https://cartoop.up.railway.app/"> Site</a> </h4>
+<p>
+O projeto <a href="https://github.com/Tessaro03/TabelaFipe" target="_blank">CarToop </a> Um projeto pessoal - Plataforma online que une entusiastas de veículos. Com recursos abrangentes, permite comprar, vender e até favoritar carros, motos, vans e caminhões.
+Desenvolvido em Python, utilizando Django como framework e MySql como banco de dados
+</p>
 
 
