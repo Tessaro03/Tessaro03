@@ -53,22 +53,22 @@
 
 <h3>📚 TaskHub API </h3>
 <p>
-A <a href="link-para-o-repositorio-taskhub">TaskHub API</a> é uma API desenvolvida em Java utilizando Spring (Security, Doc, Web, JWT) e MySQL. Ela permite a criação, gestão de equipes, projetos e tarefas associadas a projetos, oferecendo todas as operações CRUD e validações necessárias para os usuários.
+A <a href="https://github.com/Tessaro03/TaskHubApi"  target="_blank">TaskHub API</a> é uma API desenvolvida em Java utilizando Spring (Security, Doc, Web, JWT) e MySQL. Ela permite a criação, gestão de equipes, projetos e tarefas associadas a projetos, oferecendo todas as operações CRUD e validações necessárias para os usuários.
 </p>
 
 <h3>🚗 Tabela FIPE </h3>
 <p>
-O <a href="link-para-o-repositorio-fipe">projeto Tabela FIPE</a> foi desenvolvido em Java com o framework Spring. Essa aplicação facilita consultas de veículos por categoria, marca, modelo e ano, proporcionando uma experiência ágil e eficiente na obtenção de informações sobre preços de veículos no mercado brasileiro.
+O <a href="https://github.com/Tessaro03/TabelaFipe" target="_blank">projeto Tabela FIPE</a> foi desenvolvido em Java com o framework Spring. Essa aplicação facilita consultas de veículos por categoria, marca, modelo e ano, proporcionando uma experiência ágil e eficiente na obtenção de informações sobre preços de veículos no mercado brasileiro.
 </p>
 
 <h3>🎬 Screen Series </h3>
 <p>
-O <a href="link-para-o-repositorio-screen-series">Screen Series</a> consome uma API de séries, armazenando informações como título, temporada, episódios e elenco. Além disso, utiliza a API do ChatGPT para traduzir automaticamente as sinopses de cada episódio, enriquecendo a experiência do usuário.
+O <a href="https://github.com/Tessaro03/ScreenSeries"  target="_blank">Screen Series</a> consome uma API de séries, armazenando informações como título, temporada, episódios e elenco. Além disso, utiliza a API do ChatGPT para traduzir automaticamente as sinopses de cada episódio, enriquecendo a experiência do usuário.
 </p>
 
 <h3>🎵 Screen Music </h3>
 <p>
-O <a href="link-para-o-repositorio-screen-music">Screen Music</a> é um projeto Java que cadastra artistas, os afilia a músicas e salva dados em um banco de dados SQL. Ele oferece flexibilidade na associação de artistas a várias músicas, permitindo um gerenciamento abrangente. Além disso, integração com a API ChatGPT permite pesquisas intuitivas sobre os artistas.
+O <a href="https://github.com/Tessaro03/ScreenMusic"  target="_blank">Screen Music</a> é um projeto Java que cadastra artistas, os afilia a músicas e salva dados em um banco de dados SQL. Ele oferece flexibilidade na associação de artistas a várias músicas, permitindo um gerenciamento abrangente. Além disso, integração com a API ChatGPT permite pesquisas intuitivas sobre os artistas.
 </p>
 
 
