@@ -53,7 +53,7 @@
 
 <h3>📚 TaskHub API </h3>
 <p>
-A <a href="https://github.com/Tessaro03/TaskHubApi"  target="_blank">TaskHub API</a> é uma API desenvolvida em Java utilizando Spring (Security, Doc, Web, JWT) e MySQL. Ela permite a criação, gestão de equipes, projetos e tarefas associadas a projetos, oferecendo todas as operações CRUD e validações necessárias para os usuários.
+A <a href="[https://github.com/Tessaro03/TaskHubApi](https://github.com/Tessaro03/TaskHubApi)"  target="_blank">TaskHub API</a> é uma API desenvolvida em Java utilizando Spring (Security, Doc, Web, JWT) e MySQL. Ela permite a criação, gestão de equipes, projetos e tarefas associadas a projetos, oferecendo todas as operações CRUD e validações necessárias para os usuários.
 </p>
 
 <h3>🚗 Tabela FIPE </h3>
