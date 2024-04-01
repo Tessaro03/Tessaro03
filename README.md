@@ -56,9 +56,9 @@
 A <a href="https://github.com/Tessaro03/TaskHubApi"  target="_blank">TaskHub API</a> é uma API desenvolvida em Java utilizando Spring (Security, Doc, Web, JWT) e MySQL. Ela permite a criação, gestão de equipes, projetos e tarefas associadas a projetos, oferecendo todas as operações CRUD e validações necessárias para os usuários.
 </p>
 
-<h3>🎬 Screen Series </h3>
+<h3>🏪 Gestão API </h3>
 <p>
-O <a href="https://github.com/Tessaro03/ScreenSeries"  target="_blank">Screen Series</a> consome uma API de séries, armazenando informações como título, temporada, episódios e elenco. Além disso, utiliza a API do ChatGPT para traduzir automaticamente as sinopses de cada episódio, enriquecendo a experiência do usuário.
+O <a href="https://github.com/Tessaro03/gestaoAPI"  target="_blank">Gestão API </a> A Gestão API é uma solução completa para gerenciamento de lojas, desenvolvida em Java com o framework Spring. Esta API oferece recursos avançados para administrar funcionários, categorias e produtos em uma loja, utilizando um banco de dados MySQL e JWT para autenticação.
 </p>
 
 <h3>🚗 Tabela FIPE </h3>
