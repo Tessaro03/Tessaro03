@@ -61,9 +61,9 @@ A <a href="https://github.com/Tessaro03/TaskHubApi"  target="_blank">TaskHub API
 O <a href="https://github.com/Tessaro03/gestaoAPI"  target="_blank">Gestão API </a> A Gestão API é uma solução completa para gerenciamento de lojas, desenvolvida em Java com o framework Spring. Esta API oferece recursos avançados para administrar funcionários, categorias e produtos em uma loja, utilizando um banco de dados MySQL e JWT para autenticação.
 </p>
 
-<h3>🚗 Tabela FIPE </h3>
+<h3💵 ControlledMoney </h3>
 <p>
-O projeto <a href="https://github.com/Tessaro03/TabelaFipe" target="_blank"> Tabela FIPE</a> foi desenvolvido em Java com o framework Spring. Essa aplicação facilita consultas de veículos por categoria, marca, modelo e ano, proporcionando uma experiência ágil e eficiente na obtenção de informações sobre preços de veículos no mercado brasileiro.
+O projeto <a href="https://github.com/Tessaro03/ControlledMoney" target="_blank"> ControlledMoney </a> A ControlledMoney API é uma solução eficiente para controle financeiro, desenvolvida em Java com o framework Spring. Esta API permite aos usuários registrar seus lucros mensais, gastos e parcelas, fornecendo uma previsão detalhada de lucro, gasto e status de pagamento.
 </p>
 
 <h3>🎵 Screen Music </h3>
