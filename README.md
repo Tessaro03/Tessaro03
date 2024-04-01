@@ -61,7 +61,7 @@ A <a href="https://github.com/Tessaro03/TaskHubApi"  target="_blank">TaskHub API
 O <a href="https://github.com/Tessaro03/gestaoAPI"  target="_blank">Gestão API </a> é uma solução completa para gerenciamento de lojas, desenvolvida em Java com o framework Spring. Esta API oferece recursos avançados para administrar funcionários, categorias e produtos em uma loja, utilizando um banco de dados MySQL e JWT para autenticação.
 </p>
 
-<h3>💵 ControlledMoney </h3>
+<h3>💵 ControlledMoney API</h3>
 <p>
 O projeto <a href="https://github.com/Tessaro03/ControlledMoney" target="_blank"> ControlledMoney </a> é uma solução eficiente para controle financeiro, desenvolvida em Java com o framework Spring. Esta API permite aos usuários registrar seus lucros mensais, gastos e parcelas, fornecendo uma previsão detalhada de lucro, gasto e status de pagamento.
 </p>
