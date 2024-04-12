@@ -51,6 +51,11 @@
 
 <h2>🔹Projetos Desenvolvidos</h2>
 
+<h3>🌮 Food Microservice </h3>
+<p>
+O <a href="https://github.com/Tessaro03/Food-MicroService"  target="_blank">Food Microservice</a> Este projeto de microservices é o resultado do meu aprendizado em desenvolvimento de software usando Java, Spring Framework e a arquitetura de microservices. Consiste em dois serviços principais: um serviço de Pedido, responsável por registrar os pedidos dos clientes, e um serviço de Pagamento, que processa os pagamentos e informa o serviço de Pedido após a confirmação.
+</p>
+
 <h3>📚 TaskHub API </h3>
 <p>
 A <a href="https://github.com/Tessaro03/TaskHubApi"  target="_blank">TaskHub API</a> é uma API desenvolvida em Java utilizando Spring (Security, Doc, Web, JWT) e MySQL. Ela permite a criação, gestão de equipes, projetos e tarefas associadas a projetos, oferecendo todas as operações CRUD e validações necessárias para os usuários.
@@ -66,10 +71,6 @@ O <a href="https://github.com/Tessaro03/gestaoAPI"  target="_blank">Gestão API 
 O projeto <a href="https://github.com/Tessaro03/ControlledMoney" target="_blank"> ControlledMoney </a> é uma solução eficiente para controle financeiro, desenvolvida em Java com o framework Spring. Esta API permite aos usuários registrar seus lucros mensais, gastos e parcelas, fornecendo uma previsão detalhada de lucro, gasto e status de pagamento.
 </p>
 
-<h3>🎵 Screen Music </h3>
-<p>
-O <a href="https://github.com/Tessaro03/ScreenMusic"  target="_blank">Screen Music</a> é um projeto Java que cadastra artistas, os afilia a músicas e salva dados em um banco de dados SQL. Ele oferece flexibilidade na associação de artistas a várias músicas, permitindo um gerenciamento abrangente. Além disso, integração com a API ChatGPT permite pesquisas intuitivas sobre os artistas.
-</p>
 
 <h3>🚗 CarToop </h3>
 <p>
