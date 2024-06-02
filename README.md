@@ -51,7 +51,7 @@
 
 <h3>🌮 Food Microservice </h3>
 <p>
-O <a href="https://github.com/Tessaro03/Food-MicroService"  target="_blank">Food Microservice</a> Este projeto de microservices é o resultado do meu aprendizado em desenvolvimento de software usando Java, Spring Framework e a arquitetura de microservices. Consiste em dois serviços principais: um serviço de Pedido, responsável por registrar os pedidos dos clientes, e um serviço de Pagamento, que processa os pagamentos e informa o serviço de Pedido após a confirmação.
+O <a href="https://github.com/Tessaro03/Food-MicroService"  target="_blank">Food Microservice</a> Este projeto consiste em uma aplicação de microserviços chamada Food Microservice. A aplicação é construída em Java utilizando Spring Boot, MySQL e RabbitMQ, e é composta por cinco serviços: Pedido, Pagamento, Eureka, Gateway e Avaliação.
 </p>
 
 <h3>📚 TaskHub API </h3>
