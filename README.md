@@ -70,10 +70,10 @@ O projeto <a href="https://github.com/Tessaro03/ControlledMoney" target="_blank"
 </p>
 
 
-<h3>🚗 CarToop </h3>
+<h3>🧼 Clean Architecture</h3>
 <p>
-O projeto <a href="https://github.com/Tessaro03/TabelaFipe" target="_blank">CarToop </a> Um projeto pessoal - Plataforma online que une entusiastas de veículos. Com recursos abrangentes, permite comprar, vender e até favoritar carros, motos, vans e caminhões.
-Desenvolvido em Python, utilizando Django como framework e MySql como banco de dados
+O projeto <a href="https://github.com/Tessaro03/Clean-Architecture" target="_blank">Clean Architecture</a> foi desenvolvido como parte do curso da Alura, com o objetivo de aprender e aplicar os princípios da Clean Architecture. Durante o projeto, busquei aprimorar meus conhecimentos adquiridos no curso, colocando-os em prática.
+Desenvolvido em Java, utilizando o framework Spring e o banco de dados PostgreSQL.
 </p>
 
 
