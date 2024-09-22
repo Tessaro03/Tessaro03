@@ -6,7 +6,7 @@
 
 <h2 align="left">🔹Sobre Mim</h2>
 
-<h3 align="left">Olá! Meu nome é Gabriel Tessaro, tenho 20 anos, e estou em busca da primeira oportunidade na área de programação como Back-end. Tenho facilidade em aprender e me adaptar, e estou sempre em busca de diversas soluções para resolver problemas. Sou apaixonado por aprender e estou sempre buscando aprimorar minhas habilidades.</h3>
+<h3 align="left">Olá! Meu nome é Gabriel Tessaro, tenho 21 anos, e estou em busca da primeira oportunidade na área de programação como Back-end. Tenho facilidade em aprender e me adaptar, e estou sempre em busca de diversas soluções para resolver problemas. Sou apaixonado por aprender e estou sempre buscando aprimorar minhas habilidades.</h3>
 
 ###
 
